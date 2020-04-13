@@ -9,3 +9,4 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 #### Screenshot of the Chrome Extention
 
 ![](images/radhe.png)
+![](images/Screenshot.png)
