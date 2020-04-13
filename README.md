@@ -9,6 +9,6 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 #### Screenshot of the Chrome Extention
 
 <p align="center">
-  <img src="image/radhe.png">
+  <img src="images/radhe.png">
 </p>
 ![](images/Screenshot.png)
