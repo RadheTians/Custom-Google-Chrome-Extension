@@ -1,12 +1,18 @@
 
 
-### Custom Google Chrome Social Media Profile Extension
+# Custom Google Chrome Social Media Profile Extension
 
 A simple Chrome Extension for combining all the social media profiles at one place.
 
 This is motivated by [Traversy Media tutorial on Google Chrome Extention](https://www.youtube.com/watch?v=wHZCYi1K664).
 
-#### Screenshot of the Chrome Extention
+## Screenshot of the Chrome Extention
 
-![](images/radhe.png)
-![](images/Screenshot.png)
+<p align="center">
+  <img src="images/radhe.png">
+</p>
+
+<p align="center">
+  <img src="images/Screenshot.png">
+</p>
+
