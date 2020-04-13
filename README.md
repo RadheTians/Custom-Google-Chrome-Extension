@@ -8,5 +8,7 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 
 #### Screenshot of the Chrome Extention
 
-![](images/radhe.png)
+<p align="center">
+  <img src="image/radhe.png">
+</p>
 ![](images/Screenshot.png)
